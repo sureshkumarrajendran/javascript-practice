@@ -43,18 +43,18 @@
 // console.log("5" + "5"); // 55
 // console.log("ab" + "5");// ab5
 
-console.log(10 - 5); //5
-console.log("10" - 5); //5
-console.log(10 - "5"); //5
-console.log("10" - "5"); //5
-console.log("ab" - "5"); // NaN Not a Number
+// console.log(10 - 5); //5
+// console.log("10" - 5); //5
+// console.log(10 - "5"); //5
+// console.log("10" - "5"); //5
+// console.log("ab" - "5"); // NaN Not a Number
 
-console.log("a" + "4");
-console.log("4" + 4); //44
-console.log("4" - 4); //0
-console.log("10" - "6"); //4
-console.log("b" - "a"); // NaN
+// console.log("a" + "4");
+// console.log("4" + 4); //44
+// console.log("4" - 4); //0
+// console.log("10" - "6"); //4
+// console.log("b" - "a"); // NaN
 
-// console.log(2 +4 -"10" + 10); //6
-console.log(2 + "4" - "10" + 10); // 24
-console.log(2 + "4" - "-10" + 10); // 44
+// // console.log(2 +4 -"10" + 10); //6
+// console.log(2 + "4" - "10" + 10); // 24
+// console.log(2 + "4" - "-10" + 10); // 44
